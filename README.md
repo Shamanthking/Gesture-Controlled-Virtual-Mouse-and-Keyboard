@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Gesture-Controlled-Virtual-Mouse-and-Keyboard
-=======
+
 # Gesture Controlled Virtual Mouse and Keyboard 🖐️⌨️
 
 ## Overview
@@ -83,4 +81,4 @@ Optimize performance for low-end systems
 
 Conclusion
 This project demonstrates an innovative approach to human–computer interaction by replacing traditional input devices with hand gestures using computer vision.
->>>>>>> df07362fedf40d61a3e1116b6c2c7321d97b1ded
+
